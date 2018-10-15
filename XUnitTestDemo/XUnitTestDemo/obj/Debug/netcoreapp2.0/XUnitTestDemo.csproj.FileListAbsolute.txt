@@ -1,0 +1,13 @@
+D:\git\JenkinsDemo\XUnitTestDemo\XUnitTestDemo\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\git\JenkinsDemo\XUnitTestDemo\XUnitTestDemo\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\git\JenkinsDemo\XUnitTestDemo\XUnitTestDemo\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\git\JenkinsDemo\XUnitTestDemo\XUnitTestDemo\bin\Debug\netcoreapp2.0\XUnitTestDemo.deps.json
+D:\git\JenkinsDemo\XUnitTestDemo\XUnitTestDemo\bin\Debug\netcoreapp2.0\XUnitTestDemo.runtimeconfig.json
+D:\git\JenkinsDemo\XUnitTestDemo\XUnitTestDemo\bin\Debug\netcoreapp2.0\XUnitTestDemo.runtimeconfig.dev.json
+D:\git\JenkinsDemo\XUnitTestDemo\XUnitTestDemo\bin\Debug\netcoreapp2.0\XUnitTestDemo.dll
+D:\git\JenkinsDemo\XUnitTestDemo\XUnitTestDemo\bin\Debug\netcoreapp2.0\XUnitTestDemo.pdb
+D:\git\JenkinsDemo\XUnitTestDemo\XUnitTestDemo\obj\Debug\netcoreapp2.0\XUnitTestDemo.csproj.CoreCompileInputs.cache
+D:\git\JenkinsDemo\XUnitTestDemo\XUnitTestDemo\obj\Debug\netcoreapp2.0\XUnitTestDemo.AssemblyInfoInputs.cache
+D:\git\JenkinsDemo\XUnitTestDemo\XUnitTestDemo\obj\Debug\netcoreapp2.0\XUnitTestDemo.AssemblyInfo.cs
+D:\git\JenkinsDemo\XUnitTestDemo\XUnitTestDemo\obj\Debug\netcoreapp2.0\XUnitTestDemo.dll
+D:\git\JenkinsDemo\XUnitTestDemo\XUnitTestDemo\obj\Debug\netcoreapp2.0\XUnitTestDemo.pdb
