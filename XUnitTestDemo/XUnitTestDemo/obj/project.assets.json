@@ -5760,9 +5760,6 @@
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
       "projectUniqueName": "D:\\git\\JenkinsDemo\\XUnitTestDemo\\XUnitTestDemo\\XUnitTestDemo.csproj",
       "projectName": "XUnitTestDemo",
@@ -5784,7 +5781,10 @@
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "http://192.168.15.161:58518/nuget": {},
         "http://api.nuget.org/v3/index.json": {},
-        "https://packages.nuget.org/v1/FeedService.svc/": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.cnblogs.com/v3/index.json": {},
+        "https://packages.nuget.org/v1/FeedService.svc/": {},
+        "https://www.nuget.org/api/v2/": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
@@ -5800,22 +5800,23 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
-          "xunit.runner.visualstudio": {
-            "target": "Package",
-            "version": "2.4.0"
-          },
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "2.0.0",
             "autoReferenced": true
+          },
+          "Microsoft.NET.Test.Sdk": {
+            "target": "Package",
+            "version": "15.9.0"
           },
           "xunit": {
             "target": "Package",
             "version": "2.4.0"
           },
-          "Microsoft.NET.Test.Sdk": {
+          "xunit.runner.visualstudio": {
             "target": "Package",
-            "version": "15.9.0"
+            "version": "2.4.0"
           }
         },
         "imports": [
